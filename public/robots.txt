@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: francesco-puppo.github.io/sitemap.xml
