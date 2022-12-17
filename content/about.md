@@ -8,7 +8,7 @@ ShowBreadCrumbs: false
 
 # Bio
 
-![Profile picture](/images/profilepic.png)
+![Profile picture](images/profilepic.png)
 
 I like taking [pictures](tags/photography/) (especially when I travel), watching [movies](tags/movies), and reading [books](tags/books).
 
