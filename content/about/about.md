@@ -3,7 +3,6 @@ title: "About"
 url: "/about"
 summary: about
 ShowReadingTime: false
-author: " "
 ShowBreadCrumbs: false
 ---
 
