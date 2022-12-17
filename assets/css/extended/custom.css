@@ -343,6 +343,15 @@ TAGS PAGE
 }
 
 /***
+ABOUT
+***/
+
+.profilepic {
+    width: 200px;
+    height:200px;
+}
+
+/***
 404
 ***/
 
@@ -405,6 +414,10 @@ MEDIA QUERIES
     article .post-content h4 {
         font-size: 1.2rem;
         font-weight: 500;
+    }
+    .profilepic {
+        width: 120px;
+        height: 120px;
     }
 }
 
