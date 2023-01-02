@@ -9,8 +9,9 @@
 
 ::-webkit-scrollbar-thumb {
     background: var(--tertiary);
+    background: var(--highlight);
     border: 0px solid var(--theme);
-    border-radius: var(--radius);
+    border-radius: 100;
 }
 
 .list:not(.dark)::-webkit-scrollbar-thumb {
@@ -57,7 +58,6 @@
 
     /* reset */
     ::-webkit-scrollbar {
-        width: 19px;
-        height: 11px;
+        width: 4px;
     }
 }
