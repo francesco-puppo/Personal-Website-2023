@@ -164,6 +164,11 @@ article.post-entry:hover {
 POSTS
 ***/
 
+article .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
+    margin: 0;
+}
+
+
 article h1.post-title {
     font-size: 3rem;
     font-weight: 600;
@@ -172,21 +177,29 @@ article h1.post-title {
 article .post-content h1 {
     font-size: 2.25rem;
     font-weight: 500;
+    margin-top: 3rem;
+    margin-bottom: calc(3rem/2);
 }
 
 article .post-content h2 {
     font-size: 2rem;
     font-weight: 500;
+    margin-top: 2.5rem;
+    margin-bottom: calc(2.5rem/2);
 }
 
 article .post-content h3 {
     font-size: 1.75rem;
     font-weight: 500;
+    margin-top: 2rem;
+    margin-bottom: calc(2rem/2);
 }
 
 article .post-content h4 {
     font-size: 1.5rem;
     font-weight: 500;
+    margin-top: 1.75rem;
+    margin-bottom: calc(1.75rem/2);
 }
 
 article .post-content p,
