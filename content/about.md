@@ -25,5 +25,5 @@ I like taking [pictures](tags/photography/) (especially when I travel), watching
 - This
 - This
 
-## Download CV
+## Downloads
 And for those who still like using actual paper, here you can download [my CV]() as a PDF file.
