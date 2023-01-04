@@ -17,6 +17,7 @@
     --code-text: rgb(86, 86, 86);
     --border: rgb(238, 238, 238);
     --highlight: rgb(0, 178, 255);
+    --markdown: rgb(196, 196, 196);
 }
 
 .dark {
@@ -31,6 +32,7 @@
     --code-text: rgb(96, 96, 96);
     --border: rgb(28, 28, 28);
     --highlight: rgb(0, 178, 255);
+    --markdown: rgb(96, 96, 96);
 }
 
 .list {
@@ -223,6 +225,7 @@ article .post-content p strong:before,
 article .post-content p strong:after {
     content: '*';
     display: inline-block;
+    color: var(--markdown);
 }
 
 article .post-content p em {
@@ -233,33 +236,61 @@ article .post-content p em:before,
 article .post-content p em:after {
     content: '_';
     display: inline-block;
+    color: var(--markdown);
+    display: inline-block;
 }
 
 article .post-content p a {
     box-shadow: none;
     font-weight: 500;
     transition: all 0.25s ease-in-out;
+    text-decoration: none;
     color: var(--primary);
+    display: inline-block;
 }
 
 article .post-content p a:hover {
-    border-bottom: solid 2px var(--secondary);
+    /* border-bottom: solid 2px var(--secondary); */
 }
 
+/** Markdown styling **/
 article .post-content p a:before {
     content: '[';
     display: inline-block;
     margin-right: -0.6rem;
+    color: var(--markdown);
+    transition: all 0.25s ease-in-out;
 }
 
 article .post-content p a:after {
     content: ']';
     display: inline-block;
     margin-left: -0.6rem;
+    color: var(--markdown);
+    transition: all 0.25s ease-in-out;
+}
+
+article .post-content p a:hover:before,
+article .post-content p a:hover:after,
+article .post-content p a.externalurl:hover:after,
+article .post-content p a.email:hover:after {
+    color: var(--highlight);
 }
 
 article .post-content p a.externalurl:after {
     content:'](⇢)';
+    color: var(--markdown);
+    transition: all 0.25s ease-in-out;
+}
+
+article .post-content p a.email:after {
+    content:'](@)';
+    color: var(--markdown);
+    transition: all 0.25s ease-in-out;
+    margin-left: 0.1rem;
+}
+article .post-content p a.email:before {
+    margin-right: 0.1rem;
 }
 
 .post-content ul,
@@ -273,6 +304,8 @@ article .post-content p a.externalurl:after {
 
 .post-content ul {
     list-style-type: '-';
+    color: var(--markdown);
+    display: inline-block;
 }
 
 .post-content ol {
@@ -298,7 +331,8 @@ article nav.paginav a:hover {
 }
 
 article .post-meta {
-    color: var(--secondary);
+    color: var(--code-text);
+    margin-top: 1rem;
 }
 
 .post-content code,

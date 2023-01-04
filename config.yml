@@ -89,6 +89,8 @@ params:
     socialIcons:
         - name: email
           url: "mailt:francescopuppo@me.com"
+        - name: instagram
+          url: "https://www.instagram.com/raxerox/"
         - name: Rss
           url: "index.xml"
 
