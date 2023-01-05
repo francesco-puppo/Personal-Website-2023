@@ -270,7 +270,7 @@ article .post-content a:hover {
 }
 
 /** Markdown styling **/
-article .post-content a:before {
+article .post-content a:not(hidden):before {
     content: '[';
     display: inline-block;
     margin-right: -0.6rem;
@@ -278,7 +278,7 @@ article .post-content a:before {
     transition: all 0.25s ease-in-out;
 }
 
-article .post-content a:after {
+article .post-content a:not(hidden):after {
     content: ']';
     display: inline-block;
     margin-left: -0.6rem;
