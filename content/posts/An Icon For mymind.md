@@ -1,6 +1,6 @@
 ---
 title: "An Icon For mymind"
-date: 2022-05-015T08:00:00+01:00
+date: 2022-05-15T08:00:00+01:00
 draft: false #published
 ShowToc: false
 ShowBreadCrumbs: false
@@ -21,4 +21,4 @@ After:
 
 👉 You can [download it here](https://github.com/francesco-puppo/iamfran/raw/master/share/icons/mymind%20icon/mymind%20icon.zip).
 
-To design it I used Figma and [this template](https://www.figma.com/community/file/857303226040719059) from Václav Vančura.
+To design it I used [this Figma template](https://www.figma.com/community/file/857303226040719059) from Václav Vančura.
