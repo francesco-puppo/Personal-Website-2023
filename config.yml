@@ -114,11 +114,11 @@ params:
     assets:
     #   disableFingerprinting: true
         disableHLJS: true
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
+        favicon: "https://github.com/francesco-puppo/website/blob/main/assets/favicon.png?raw=true"
+        favicon16x16: "https://github.com/francesco-puppo/website/blob/main/assets/favicon.png?raw=true"
+        favicon32x32: "https://github.com/francesco-puppo/website/blob/main/assets/favicon.png?raw=true"
     #     apple_touch_icon: "<link / abs url>"
-    #     safari_pinned_tab: "<link / abs url>"
+        safari_pinned_tab: "https://github.com/francesco-puppo/website/blob/main/assets/favicon.png?raw=true"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
