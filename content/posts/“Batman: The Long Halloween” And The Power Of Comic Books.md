@@ -1,7 +1,7 @@
 ---
 title: "“Batman: The Long Halloween” And The Power Of Comic Books"
 date: 2022-08-10T08:00:00+01:00
-draft: true #published
+draft: false #published
 ShowToc: false
 ShowBreadCrumbs: false
 tags: ["comics", "movies"] #comics #movies
