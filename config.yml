@@ -38,9 +38,9 @@ languages:
                 - name: Tags
                   url: tags
                   weight: 4
-                - name: Search
-                  url: search
-                  weight: 5
+                # - name: Search
+                #   url: search
+                #   weight: 5
 
 outputs:
     home:
