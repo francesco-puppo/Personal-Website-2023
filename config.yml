@@ -88,7 +88,7 @@ params:
     homeInfoParams:
         Title: "<span class='hello'>👋</span> Hello!"
         Content: >
-                My name is Francesco Puppo and I am a UX Designer with a passion for, well, a lot of things... I am currently living in Amsterdam where I work as Head of UX Design at [Greenflux](https://greenflux.com)
+                My name is Francesco Puppo and I am a UX Designer with a passion for, well, a lot of things... I am currently living in Amsterdam where I work as Head of UX Design at [Greenflux](https://greenflux.com).
     socialIcons:
         - name: email
           url: "mailt:francescopuppo@me.com"
