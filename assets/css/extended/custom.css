@@ -126,7 +126,7 @@ HOME
     animation: text-focus-in 1.5s cubic-bezier(0.785, 0.135, 0.150, 0.860) both;
 }
 
-main .post-entry {
+body:not(.list) main .post-entry {
     -webkit-animation: slide-in-bottom 1s cubic-bezier(0.785, 0.135, 0.150, 0.860) both;
     animation: slide-in-bottom 1s cubic-bezier(0.785, 0.135, 0.150, 0.860) both;
     animation-delay: 0.5s;
