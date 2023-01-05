@@ -145,5 +145,6 @@ markup:
         # guessSyntax: true
         # lineNos: true
         # style: monokai
+
 permalinks:
-  posts: /:year/:month/:title/
+  posts: /posts/:year/:month/:title/
