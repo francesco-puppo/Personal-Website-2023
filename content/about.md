@@ -10,7 +10,7 @@ ShowBreadCrumbs: false
 
 <img loading="lazy" src="images/profilepic.png" alt="Profile picture" class="profilepic">
 
-I like taking [pictures](tags/photography/) (especially when I travel), watching [movies](tags/movies), and reading [books](tags/books).
+I like taking [pictures](/tags/photography/) (especially when I travel), watching [movies](/tags/movies), and reading [books](/tags/books).
 
 # CV
 ## Mar 2022 — current
