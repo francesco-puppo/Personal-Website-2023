@@ -6,8 +6,5 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 ---
 
-## Things 3 Rulebook
-
-## PaperMod Mod Theme for Hugo
-
-## iPhone Norway Wallpapers
+- [An Icon For mymind](posts/2022/05/an-icon-for-mymind/)
+- [A Dark Theme For write.as](posts/2022/02/a-dark-theme-for-write/)
