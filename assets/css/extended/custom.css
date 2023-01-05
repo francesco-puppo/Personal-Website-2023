@@ -230,33 +230,33 @@ article .post-content p,
     font-size: 1rem;
 }
 
-article .post-content p strong {
+article .post-content strong {
     font-weight: 600;
     color: var(--primary);
     display: inline-block;
 
 }
 
-article .post-content p strong:before,
-article .post-content p strong:after {
+article .post-content strong:before,
+article .post-content strong:after {
     content: '*';
     display: inline-block;
     color: var(--markdown);
 }
 
-article .post-content p em {
+article .post-content em {
     color: var(--primary);
     display: inline-block;
 }
 
-article .post-content p em:before,
-article .post-content p em:after {
+article .post-content em:before,
+article .post-content em:after {
     content: '_';
     display: inline-block;
     color: var(--markdown);
 }
 
-article .post-content p a {
+article .post-content a {
     box-shadow: none;
     font-weight: 500;
     transition: all 0.25s ease-in-out;
@@ -265,12 +265,12 @@ article .post-content p a {
     display: inline-block;
 }
 
-article .post-content p a:hover {
+article .post-content a:hover {
     /* border-bottom: solid 2px var(--secondary); */
 }
 
 /** Markdown styling **/
-article .post-content p a:before {
+article .post-content a:before {
     content: '[';
     display: inline-block;
     margin-right: -0.6rem;
@@ -278,7 +278,7 @@ article .post-content p a:before {
     transition: all 0.25s ease-in-out;
 }
 
-article .post-content p a:after {
+article .post-content a:after {
     content: ']';
     display: inline-block;
     margin-left: -0.6rem;
@@ -286,27 +286,27 @@ article .post-content p a:after {
     transition: all 0.25s ease-in-out;
 }
 
-article .post-content p a:hover:before,
-article .post-content p a:hover:after,
-article .post-content p a.externalurl:hover:after,
-article .post-content p a.email:hover:after {
+article .post-content a:hover:before,
+article .post-content a:hover:after,
+article .post-content a.externalurl:hover:after,
+article .post-content a.email:hover:after {
     color: var(--highlight);
 }
 
-article .post-content p a.externalurl:after {
+article .post-content a.externalurl:after {
     content: '](⇢)';
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
 }
 
-article .post-content p a.email:after {
+article .post-content a.email:after {
     content: '](@)';
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     margin-left: 0.1rem;
 }
 
-article .post-content p a.email:before {
+article .post-content a.email:before {
     margin-right: 0.1rem;
 }
 
