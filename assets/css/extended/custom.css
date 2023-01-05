@@ -177,7 +177,10 @@ article.post-entry:hover {
 POSTS
 ***/
 
-article .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
+article .post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
     margin: 0;
 }
 
@@ -219,7 +222,7 @@ article .post-content p,
 .post-content code,
 .post-content li {
     font-size: 1.25rem;
-    color: var(--content); 
+    color: var(--content);
     font-weight: 300;
 }
 
@@ -243,6 +246,7 @@ article .post-content p strong:after {
 
 article .post-content p em {
     color: var(--primary);
+    display: inline-block;
 }
 
 article .post-content p em:before,
@@ -250,7 +254,6 @@ article .post-content p em:after {
     content: '_';
     display: inline-block;
     color: var(--markdown);
-    display: inline-block;
 }
 
 article .post-content p a {
@@ -291,17 +294,18 @@ article .post-content p a.email:hover:after {
 }
 
 article .post-content p a.externalurl:after {
-    content:'](⇢)';
+    content: '](⇢)';
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
 }
 
 article .post-content p a.email:after {
-    content:'](@)';
+    content: '](@)';
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     margin-left: 0.1rem;
 }
+
 article .post-content p a.email:before {
     margin-right: 0.1rem;
 }
@@ -319,6 +323,8 @@ article .post-content p a.email:before {
     list-style-type: '-';
     color: var(--markdown);
     display: inline-block;
+    margin-top: -8px;
+    margin-bottom: 32px;
 }
 
 .post-content ol {
@@ -399,8 +405,16 @@ h5:hover a.anchor:hover {
     cursor: pointer;
 }
 
-.paginav .prev, .paginav .next {
+.paginav .prev,
+.paginav .next {
     padding: 2rem;
+}
+
+.post-content blockquote {
+    margin: 32px 0;
+    padding: 14px;
+    border-inline-start: 3px solid var(--secondary);
+    background: var(--code-bg);
 }
 
 /***
@@ -420,7 +434,7 @@ ABOUT
 
 .profilepic {
     width: 200px;
-    height:200px;
+    height: 200px;
 }
 
 /***
@@ -491,6 +505,7 @@ MEDIA QUERIES
         font-size: 1.2rem;
         font-weight: 500;
     }
+
     .profilepic {
         width: 120px;
         height: 120px;
@@ -502,7 +517,7 @@ MEDIA QUERIES
  * animation text-focus-in
  * ----------------------------------------
  */
- @-webkit-keyframes text-focus-in {
+@-webkit-keyframes text-focus-in {
     0% {
         -webkit-filter: blur(12px);
         filter: blur(12px);
@@ -535,28 +550,30 @@ MEDIA QUERIES
  * animation slide-in-bottom
  * ----------------------------------------
  */
- @-webkit-keyframes slide-in-bottom {
+@-webkit-keyframes slide-in-bottom {
     0% {
-      -webkit-transform: translateY(1000px);
-              transform: translateY(1000px);
-      opacity: 0;
+        -webkit-transform: translateY(1000px);
+        transform: translateY(1000px);
+        opacity: 0;
     }
+
     100% {
-      -webkit-transform: translateY(0);
-              transform: translateY(0);
-      opacity: 1;
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
     }
-  }
-  @keyframes slide-in-bottom {
+}
+
+@keyframes slide-in-bottom {
     0% {
-      -webkit-transform: translateY(1000px);
-              transform: translateY(1000px);
-      opacity: 0;
+        -webkit-transform: translateY(1000px);
+        transform: translateY(1000px);
+        opacity: 0;
     }
+
     100% {
-      -webkit-transform: translateY(0);
-              transform: translateY(0);
-      opacity: 1;
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
     }
-  }
-  
+}

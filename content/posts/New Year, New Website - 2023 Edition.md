@@ -1,7 +1,7 @@
 ---
 title: "New Year, New Website - 2023 Edition"
 date: 2023-01-01T08:00:00+01:00
-draft: false #review
+draft: false #published
 ShowToc: false
 ShowBreadCrumbs: false
 tags: ["meta", "hugo"] #meta #hugo
