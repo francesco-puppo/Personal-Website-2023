@@ -256,7 +256,7 @@ article .post-content em:after {
     color: var(--markdown);
 }
 
-article .post-content a {
+article .post-content a:not(.anchor) {
     box-shadow: none;
     font-weight: 500;
     transition: all 0.25s ease-in-out;
