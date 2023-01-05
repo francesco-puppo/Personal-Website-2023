@@ -417,6 +417,10 @@ h5:hover a.anchor:hover {
     background: var(--code-bg);
 }
 
+.post-content blockquote p {
+    margin-bottom: 0px;
+}
+
 /***
 TAGS PAGE
 ***/
