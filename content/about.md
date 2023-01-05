@@ -13,7 +13,7 @@ ShowBreadCrumbs: false
 I like taking [pictures](tags/photography/) (especially when I travel), watching [movies](tags/movies), and reading [books](tags/books).
 
 # CV
-## 2022 — current
+## Mar 2022 — current
 **Head of UX Design** at [Greenflux](https://greenflux.com)
 - Redesigning our product to stand out in the global marketplace 
 - Creating a new Design System to support the growth of our platform 
