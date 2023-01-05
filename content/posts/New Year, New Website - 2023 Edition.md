@@ -19,4 +19,4 @@ I wanted something cheap, easy to manage and with good customisation options. Hu
 - Posts are written using **Markdown** and you can use your preferred app to manage them.
 - There are themes available which can easily be customised using **CSS**.
 
-For more information on how to set up your site with Hugo see here their [official documentation](https://gohugo.io/documentation/). If you want to have a look at how I set up this website, here's the [Github repository](https://github.com/francesco-puppo/website).
+For more information on how to set up your site with Hugo have a look at their [official documentation](https://gohugo.io/documentation/). If you want to have a look at how I set up this website, here's the [Github repository](https://github.com/francesco-puppo/website).

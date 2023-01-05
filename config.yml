@@ -29,15 +29,18 @@ languages:
                 - name: About
                   url: about
                   weight: 1
-                - name: Projects
-                  url: projects
-                  weight: 2
-                - name: Archive
-                  url: archives/
+                # - name: Projects
+                #   url: projects
+                #   weight: 2
+                - name: Posts
+                  url: archive/
                   weight: 3
                 - name: Tags
                   url: tags
                   weight: 4
+                - name: Search
+                  url: search
+                  weight: 5
 
 outputs:
     home:
@@ -77,8 +80,8 @@ params:
         # imageWidth: 120
         # imageHeight: 120
         buttons:
-            - name: Archives
-              url: archives
+            - name: Posts
+              url: posts
             - name: Tags
               url: tags
 
