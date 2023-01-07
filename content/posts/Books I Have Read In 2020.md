@@ -9,8 +9,6 @@ tags: ["books"] #books
 
 A list of the books I read last year, with some ratings, quotes, and impressions.
 
-<!--more-->
-
 ⭐️ = A masterpiece
 ❤️ = I loved it
 
