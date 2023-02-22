@@ -15,7 +15,7 @@ I also try to follow the concept of [Max VP] when selecting which apps to use an
 
 ---
 
-- Apple default apps like **Safari**, **Calendar**, and **Notes**: They do what I *really* need them to do, simple as that. Apple Notes wins, in this case, over Bear and other similar apps thanks to its integration within Apple ecosystem but also because of how it manages attachments, images, and handwritten notes.
+- Apple default apps like  **Calendar**, **Mail**, **Notes**, **Finder/Files** and **Safari**: They do what I *really* need them to do, simple as that. Apple Notes wins, in this case, over Bear and other similar apps thanks to its integration within Apple ecosystem but also because of how it manages attachments, images, and handwritten notes.
 - [Things 3](https://culturedcode.com/things/) to manage my personal life: It integrates the GTD principles in a really easy to use way and it’s a pleasure to use. I consider this a [Max VP](/posts/2023/01/maximum-viable-product/).
 - [NotePlan](https://noteplan.co) for work related tasks and notes: My [BuJo](https://bulletjournal.com) kind of workflow fits perfectly with this app and I love having everything in one place.
 - [Bear](https://bear.app) for research: I could use Apple Notes or NotePlan for this, but I like to keep things separate. Also, Bear is such a pleasure to use that I want a reason to keep opening it. I consider this a [Max VP](/posts/2023/01/maximum-viable-product/).
