@@ -20,7 +20,7 @@ Over the years I learned to appreciate the opposite: focus on what your product 
 
 While I try to apply this concept in my daily work as Head of UX Design, I found myself selecting which apps I use based on this even before I knew about this Max VP intuition.
 
-Some apps that I use every day come to mind are **Things 3**, **iA Writer**, and **Bear** (see here [a list of apps](/posts/2023/02/apps-stack-for-2023/) I use every day).
+Some [apps that I use every day](/posts/2023/02/apps-stack-for-2023/) come to mind are **Things 3**, **iA Writer**, and **Bear**.
 
 These apps don’t follow user requests but instead *anticipate* their needs and are *opinionated* in their design decisions.
 
