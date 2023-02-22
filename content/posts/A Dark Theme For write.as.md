@@ -1,7 +1,7 @@
 ---
 title: "A Dark Theme For write.as"
 date: 2022-02-12T08:00:00+01:00
-draft: false #published
+draft: false
 ShowToc: true
 ShowBreadCrumbs: false
 tags: ["css"] #css

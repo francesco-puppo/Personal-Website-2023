@@ -1,7 +1,7 @@
 ---
 title: "An Icon For mymind"
 date: 2022-05-15T08:00:00+01:00
-draft: false #published
+draft: false
 ShowToc: false
 ShowBreadCrumbs: false
 tags: ["icons"] #icons
