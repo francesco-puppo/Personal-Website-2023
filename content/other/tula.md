@@ -6,8 +6,6 @@ ShowReadingTime: false
 ShowBreadCrumbs: true
 ---
 
-# Tula's Handbook
-
 ![Tula on the grass](/images/tula.png)
 
 ```
