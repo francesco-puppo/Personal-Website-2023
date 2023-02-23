@@ -6,33 +6,33 @@
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(7, 7, 7);
-    --secondary: rgb(28, 28, 28);
-    --tertiary: rgb(233, 233, 233);
-    --content: rgb(14, 14, 14);
-    --hljs-bg: rgb(245, 245, 245);
-    --code-bg: rgb(245, 245, 245);
-    --code-text: rgb(86, 86, 86);
-    --border: rgb(238, 238, 238);
+    --theme: #FFFFFF;
+    --entry: #FFFFFF;
+    --primary: #0F172A;
+    --secondary: #1E293B;
+    --tertiary: #F1F5F9;
+    --content: #0F172A;
+    --hljs-bg: #F1F5F9;
+    --code-bg: #F1F5F9;
+    --code-text: #64748B;
+    --border: #F1F5F9
     --highlight: rgb(0, 178, 255);
-    --markdown: rgb(196, 196, 196);
+    --markdown: #CBD5E1;
 }
 
 .dark {
-    --theme: rgb(7, 7, 7);
-    --entry: rgb(14, 14, 14);
+    --theme: #0F172A; 
+    --entry: #1E293B;
     --primary: rgb(218, 218, 219);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(21, 21, 21);
-    --content: rgb(196, 196, 197);
-    --hljs-bg: rgb(28, 28, 28);
-    --code-bg: rgb(28, 28, 28);
-    --code-text: rgb(96, 96, 96);
-    --border: rgb(28, 28, 28);
+    --secondary: #94A3B8;
+    --tertiary: #334155;
+    --content: #CBD5E1;
+    --hljs-bg: #334155;
+    --code-bg: #334155;
+    --code-text: #64748B;
+    --border: #334155;
     --highlight: rgb(0, 178, 255);
-    --markdown: rgb(96, 96, 96);
+    --markdown: #64748B;
 }
 
 .list {
@@ -92,6 +92,10 @@ div.social-icons a:hover {
     color: var(--secondary);
 }
 
+.post-content img {
+    border-radius: 8px;
+}
+
 /***
 SHADOW
 ***/
@@ -126,7 +130,8 @@ HOME
     animation: text-focus-in 1.25s cubic-bezier(0.785, 0.135, 0.150, 0.860) both;
 }
 
-main .post-entry:not(.tag-entry) {
+main .post-entry:not(.tag-entry),
+.pagination {
     -webkit-animation: slide-in-bottom 0.5s cubic-bezier(0.785, 0.135, 0.150, 0.860) both;
     animation: slide-in-bottom 0.5s cubic-bezier(0.785, 0.135, 0.150, 0.860) both;
     animation-delay: 0.5s;
@@ -349,6 +354,11 @@ article nav.paginav a:hover {
     background: var(--code-bg)
 }
 
+.pagination a {
+    color: var(--content);
+    background: var(--tertiary);
+}
+
 article .post-meta {
     color: var(--code-text);
     margin-top: 1rem;
@@ -413,7 +423,8 @@ h5:hover a.anchor:hover {
 .post-content blockquote {
     margin: 32px 0;
     padding: 28px;
-    border-inline-start: 3px solid var(--secondary);
+    border-inline-start: 0px solid var(--secondary);
+    border-radius: 8px;
     background: var(--code-bg);
 }
 
