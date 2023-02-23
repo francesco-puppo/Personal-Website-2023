@@ -4,7 +4,8 @@ date: 2023-02-13T08:00:00+01:00
 draft: false
 ShowToc: false
 ShowBreadCrumbs: false
-tags: ["#apps"]
+tags: ["apps"]
+status: #published
 ---
 
 As you will see, the one below is a pretty opinionated list. 

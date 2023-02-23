@@ -4,7 +4,8 @@ date: 2022-08-10T08:00:00+01:00
 draft: false
 ShowToc: false
 ShowBreadCrumbs: false
-tags: ["#comics", "#movies"]
+tags: ["comics", "movies"]
+status: #published
 ---
 
 ![Batman: The Long Halloween cover](https://i.snap.as/MynPiJE0.jpeg)
