@@ -11,7 +11,7 @@ As you will see, the one below is a pretty opinionated list.
 
 I avoid apps  that try to do a thousand different things and end up doing all of them in a bad way. I much prefer simple apps that have great UX, beautiful UI, and a clear set of features.
 
-I also try to follow the concept of [Max VP] when selecting which apps to use and I try to focus on what I *really* need from them.
+I also try to follow the concept of [Max VP](/posts/2023/01/maximum-viable-product/) when selecting which apps to use and I try to focus on what I *really* need from them.
 
 ---
 
