@@ -6,7 +6,7 @@ ShowReadingTime: false
 ShowBreadCrumbs: true
 ---
 
-![Tula on the grass](/images/tula.png)
+![Tula on the grass](/tula.png)
 
 ```
 Born: Apr 25, 2020
