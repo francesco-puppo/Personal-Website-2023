@@ -19,7 +19,7 @@ Weight: ~22Kg
 ### Morning
 - **Breakfast.** One cup of dry food
 - **Short walk.** 10/15 minutes are usually more than enough
-- 
+
 ### Afternoon
 - **Long walk.** We usually go to the park and play with the ball for up to 1h
 
