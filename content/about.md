@@ -8,7 +8,7 @@ ShowBreadCrumbs: false
 
 # Bio
 
-<img loading="lazy" src="images/profilepic.png" alt="Profile picture" class="profilepic">
+![Me and my wife laying in a field](/images/profile.jpg)
 
 I like taking [pictures](/tags/photography/) (especially when I travel), watching [movies](/tags/movies), and reading [books](/tags/books).
 
