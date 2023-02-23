@@ -4,7 +4,7 @@ date: 2023-01-24T08:00:00+01:00
 draft: false
 ShowToc: false
 ShowBreadCrumbs: false
-tags: ["apps","product", "ux"] #apps #product #ux
+tags: ["#apps","#product", "#ux"]
 ---
 
 I recently found out about [this concept](https://www.cxpartners.co.uk/our-thinking/maximum-viable-product) which explains perfectly what I think a great product should represent.
