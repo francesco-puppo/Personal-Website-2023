@@ -8,7 +8,7 @@ ShowBreadCrumbs: true
 
 # Tula's Handbook
 
-![Tula on the grass](/assets/images/tula.png)
+![Tula on the grass](/images/tula.png)
 
 ```
 Born: Apr 25, 2020
