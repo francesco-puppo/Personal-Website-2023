@@ -18,6 +18,8 @@
     --border: #F1F5F9;
     --highlight: rgb(0, 178, 255);
     --markdown: #CBD5E1;
+    --mark-light: rgba(255,217,0,0.3);
+    --mark-dark: rgba(255,217,0,0.8);
 }
 
 .dark {
@@ -33,6 +35,8 @@
     --border: #334155;
     --highlight: rgb(0, 178, 255);
     --markdown: #64748B;
+    --mark-light: rgba(255,217,0,0.4);
+    --mark-dark: rgba(255,217,0,0.8);
 }
 
 .list {
@@ -119,6 +123,13 @@ SHADOW
     animation-play-state: running;
     animation-name: text-focus-in;
     animation-delay: 1s;
+}
+
+mark {
+    color: var(--content);
+    background-color: var(--mark-light);
+    border-bottom: 3px solid var(--mark-dark);
+    padding:0px 8px;
 }
 
 /***

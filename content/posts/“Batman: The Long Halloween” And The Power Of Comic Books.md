@@ -11,7 +11,7 @@ status: #published
 ![Batman: The Long Halloween cover](https://i.snap.as/MynPiJE0.jpeg)
 
 I recently watched “Batman: The Long Halloween”, a 3 hours long animated movie based on the graphic novel of the same name, and I was extremely disappointed by the lack of imagination displayed in it.
-<!--more-->
+
 And I am not talking about the story. The story is OK (even if they changed a few things from the graphic novel that I was not really happy about). I am talking about the drawings.
 
 The beauty of comic books is the amount of freedom the artist can have. There are rules but often the best work happens when those rules are broken. Look at the work of Frank Miller as an example.
