@@ -478,6 +478,16 @@ ABOUT
 }
 
 /***
+PHOTO GRID
+***/
+@media  only screen and (min-width: 600px) {
+.photo-grid {
+    column-count: 2;
+    column-gap: 1em;
+  }
+}
+         
+/***
 MEDIA QUERIES
 ***/
 
