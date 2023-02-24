@@ -1,6 +1,6 @@
 ---
 title: "Tula's Handbook"
-url: "/other/tula"
+url: "/others/tula"
 summary: Tula's Handbook
 ShowReadingTime: false
 ShowBreadCrumbs: true
