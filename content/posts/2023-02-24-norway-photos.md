@@ -9,7 +9,7 @@ tags: ["photography"]
 
 Last year I was in Norway for my honeymoon and I was blown away every day of our road trip by the incredible landscape.
 
-Everywhere you look there was something worth shooting. Hopefully I was able to capture some of that magic...
+Everywhere you looked there was something worth shooting; hopefully I was able to capture some of that magic...
 
 <div class="photo-grid">
 
