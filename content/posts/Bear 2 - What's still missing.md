@@ -8,8 +8,6 @@ tags: ["apps"]
 status: #published
 ---
 
-# Bear 2 - What's still missing 
-
 We are all happy about the release of Bear 2: the Shiny Frog teams confirm themselves as one of the few companies that *really* care about design and User Experience.
 
 Writing notes in Bear is more beautiful than ever, and you can see the attention put in every small detail. 
