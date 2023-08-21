@@ -4,6 +4,7 @@ date: 2023-08-21T08:00:00+01:00
 draft: false
 ShowToc: false
 ShowBreadCrumbs: false
+ShowPostNavLinks: true
 tags: ["comics", "inspiration"]
 status: #published
 ---

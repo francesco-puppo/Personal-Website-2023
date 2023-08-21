@@ -505,6 +505,14 @@ TAGS PAGE
 }
 
 /***
+POSTS PAGE
+***/
+
+sup.archive-count {
+    display: none;
+}
+
+/***
 ABOUT
 ***/
 

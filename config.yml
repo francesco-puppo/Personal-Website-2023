@@ -32,7 +32,7 @@ languages:
                 # - name: Projects
                 #   url: projects
                 #   weight: 2
-                - name: Posts
+                - name: Articles
                   url: archive/
                   weight: 3
                 - name: Tags
