@@ -8,7 +8,7 @@ tags: ["comics", "inspiration"]
 status: #published
 ---
 
-The beautiful lines and colours of HeadLopper.
+The beautiful lines and colours of Head Lopper.
 
 ![](/20230821/HeadLopper1.webp)
 
