@@ -4,7 +4,7 @@ date: 2023-02-24T12:00:00+01:00
 draft: false
 ShowToc: false
 ShowBreadCrumbs: false
-tags: ["photography"]
+tags: [photography]
 ---
 
 Last year I was in Norway for my honeymoon and I was blown away every day of our road trip by the incredible landscape.

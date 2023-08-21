@@ -5,7 +5,7 @@ draft: false
 ShowToc: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
-tags: [“iPad”, “workflow”]
+tags: [iPad, workflow]
 ---
 
 Even if I am not the biggest Shortcuts user, I do play with it pretty often and there are indeed some shortcuts that I use everyday. The one I use the most on my iPad is definitely **Split Screen**: a really simple and stupid shortcut that allows me to quickly set up my workspace for every occasion.

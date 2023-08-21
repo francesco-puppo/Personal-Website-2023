@@ -4,8 +4,7 @@ date: 2022-02-12T08:00:00+01:00
 draft: false
 ShowToc: true
 ShowBreadCrumbs: false
-tags: ["downloads"]
-status: #published
+tags: [downloads]
 ---
 
 ![Theme preview](https://i.snap.as/xZuovPhQ.jpg)

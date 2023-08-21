@@ -4,8 +4,7 @@ date: 2023-07-17T08:00:00+01:00
 draft: false
 ShowToc: false
 ShowBreadCrumbs: false
-tags: ["apps"]
-status: #published
+tags: [apps]
 ---
 
 ![Bear hero macOS](https://bear.app/images/home/hero_mac@2x.jpg)

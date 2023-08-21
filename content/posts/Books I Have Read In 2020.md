@@ -4,8 +4,7 @@ date: 2021-01-01T08:00:00+01:00
 draft: false
 ShowToc: true
 ShowBreadCrumbs: false
-tags: ["books"]
-status: #published
+tags: [books]
 ---
 
 A list of the books I read last year, with some ratings, quotes, and impressions.
