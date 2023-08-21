@@ -92,12 +92,14 @@ params:
     socialIcons:
         - name: email
           url: "mailt:francescopuppo@me.com"
-        - name: instagram
-          url: "https://www.instagram.com/raxerox/"
-        - name: Rss
-          url: "index.xml"
+        # - name: instagram
+        #   url: "https://www.instagram.com/raxerox/"
         - name: medium
           url: "https://medium.com/@fransgarage"
+        - name: dribbble
+          url: "https://dribbble.com/fpuppo"
+        - name: Rss
+          url: "index.xml"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
