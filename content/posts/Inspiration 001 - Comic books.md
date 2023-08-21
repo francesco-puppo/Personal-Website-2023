@@ -6,7 +6,6 @@ ShowToc: false
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 tags: ["comics", "inspiration"]
-status: #published
 ---
 
 The beautiful lines and colours of Head Lopper.
