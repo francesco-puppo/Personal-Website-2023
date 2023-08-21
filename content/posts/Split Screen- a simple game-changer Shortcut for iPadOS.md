@@ -1,7 +1,7 @@
 ---
 title: "Split Screen: a simple game-changer Shortcut for iPadOS"
-date: 2023-08-21T10:00:00+01:00
-draft: true
+date: 2023-08-21T18:00:00+02:00
+draft: false
 ShowToc: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
@@ -27,7 +27,7 @@ Some combos I use are:
 -   Things + Calendar to plan my days
 -   Mail + Things to clean up my inbox
 
-![](/20230821/SplitScreenShortcut@0.5x.gif)
+![](/20230821/SplitScreenShortcut_Small.gif)
 
 ## Download
 
