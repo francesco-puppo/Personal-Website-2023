@@ -376,6 +376,18 @@ article .post-content a.email:before {
     margin-right: 0.1rem;
 }
 
+article .post-content a.footnote-ref::before,
+article .post-content a.footnote-backref::before {
+    content: "[" ;
+    margin-right: 0.25rem;
+}
+
+article .post-content a.footnote-ref::after,
+article .post-content a.footnote-backref::after {
+    content: "]" ;
+    margin-left: 0.25rem;
+}
+
 .post-content ul,
 .post-content ol {
     padding-inline-start: 20px;

@@ -12,9 +12,9 @@ Even if I am not the biggest Shortcuts user, I do play with it pretty often and 
 
 ## How it works
 
-This shortcut revolves around the idea that there are some apps that you frequently use on your iPad[^While this shortcut works on macOS as well, it's not as needed there given how easy it is to open apps and drag and drop windows on a Mac.].
+This shortcut revolves around the idea that there are some apps that you frequently use on your iPad[^1].
 
-When launched, the shortcut will open up a list of these apps[^The list will pop up twice, so you can select both the first and the second app you want to open], where you can select the two you want to open. After that another menu will appear, asking if want to open the second one in Slide Over mode.
+When launched, the shortcut will open up a list of these apps[^2], where you can select the two you want to open. After that another menu will appear, asking if want to open the second one in Slide Over mode.
 
 That's it! As I said before, it's a _really_ stupid shortcut but I find it extremely useful to jump between different _modes_.
 
@@ -41,3 +41,6 @@ I like simple tools and workflows (and therefore simple shortcuts): it makes it 
 
 > Simplify, simplify, simplify! <br/>
 > — Henry David Thoreau
+
+[^1]: While this shortcut works on macOS as well, it's not as needed there given how easy it is to open apps and drag and drop windows on a Mac.
+[^2]: The list will pop up twice, so you can select both the first and the second app you want to open
