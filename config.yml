@@ -1,5 +1,5 @@
 baseURL: https://iamfran.com
-title: House of Fran
+title: Fran's Realm
 paginate: 5
 theme: PaperMod
 
@@ -51,7 +51,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "A blog about some stuff that interests me"
-    author: Fran
+    author: ""
     # author: ["Me", "You"] # multiple authors
 
     # custom styling
