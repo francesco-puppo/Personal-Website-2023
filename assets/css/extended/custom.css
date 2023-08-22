@@ -55,6 +55,12 @@
     background: var(--theme);
 }
 
+::-moz-selection {    
+    color: var(--selection-color);
+    background: var(--selection-background);
+    text-decoration: underline;
+}
+
 ::selection {    
     color: var(--selection-color);
     background: var(--selection-background);
@@ -130,14 +136,22 @@ SHADOW
     margin-top: -100px;
     box-shadow: rgba(76, 170, 175, 0.2) 0px 50px 120px 0px, rgba(120, 35, 160, 0.1) 0px 30px 50px 0px, rgba(9, 9, 9, 0.1) 0px 17px 40px 0px, rgba(9, 9, 9, 0.2) 0px 4px 16px 0px;
     opacity: 1;
-    animation-duration: 1s;
-    animation-timing-function: cubic-bezier(0.55, 0.085, 0.68, 0.53);
-    animation-iteration-count: 1;
-    animation-direction: normal;
-    animation-fill-mode: both;
-    animation-play-state: running;
-    animation-name: text-focus-in;
-    animation-delay: 1s;
+    -webkit-animation-duration: 1s;
+            animation-duration: 1s;
+    -webkit-animation-timing-function: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+            animation-timing-function: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+    -webkit-animation-iteration-count: 1;
+            animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+            animation-direction: normal;
+    -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
+    -webkit-animation-play-state: running;
+            animation-play-state: running;
+    -webkit-animation-name: text-focus-in;
+            animation-name: text-focus-in;
+    -webkit-animation-delay: 1s;
+            animation-delay: 1s;
 }
 
 mark {
@@ -179,7 +193,8 @@ main .post-entry:not(.tag-entry),
 .pagination {
     -webkit-animation: slide-in-bottom 0.5s cubic-bezier(0.785, 0.135, 0.150, 0.860) both;
     animation: slide-in-bottom 0.5s cubic-bezier(0.785, 0.135, 0.150, 0.860) both;
-    animation-delay: 0.5s;
+    -webkit-animation-delay: 0.5s;
+            animation-delay: 0.5s;
 }
 
 .first-entry .entry-header h1 {
@@ -390,11 +405,16 @@ article .post-content a.footnote-backref::after {
 
 .post-content ul,
 .post-content ol {
-    padding-inline-start: 20px;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+    -webkit-margin-before: 1em;
+            margin-block-start: 1em;
+    -webkit-margin-after: 1em;
+            margin-block-end: 1em;
+    -webkit-margin-start: 0px;
+            margin-inline-start: 0px;
+    -webkit-margin-end: 0px;
+            margin-inline-end: 0px;
 }
 
 .post-content ul {
@@ -406,7 +426,8 @@ article .post-content a.footnote-backref::after {
 }
 
 .post-content ol {
-    margin-inline-start: 20px;
+    -webkit-margin-start: 20px;
+            margin-inline-start: 20px;
 }
 
 .post-content ul li {
@@ -496,7 +517,8 @@ h5:hover a.anchor:hover {
 .post-content blockquote {
     margin: 32px 0;
     padding: 28px;
-    border-inline-start: 0px solid var(--highlight);
+    -webkit-border-start: 0px solid var(--highlight);
+            border-inline-start: 0px solid var(--highlight);
     border-radius: 8px;
     background: var(--code-bg);
 }
@@ -552,10 +574,40 @@ PHOTO GRID
 ***/
 @media  only screen and (min-width: 600px) {
 .photo-grid {
-    column-count: 2;
-    column-gap: 1em;
+    -moz-column-count: 2;
+         column-count: 2;
+    -moz-column-gap: 1em;
+         column-gap: 1em;
   }
 }
+
+/***
+INSPIRATION GRID
+***/
+
+article .post-content .inspiration-grid a::before,
+article .post-content .inspiration-grid a::after {
+    display: none;
+}
+
+article .post-content .inspiration-grid a img {
+    transition: all .25s ease-in-out;
+}
+
+article .post-content .inspiration-grid a img:hover {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    transform: scale(1.025);
+    border-radius: 4px;
+}
+
+@media  only screen and (min-width: 600px) {
+    .inspiration-grid {
+        -moz-column-count: 2;
+             column-count: 2;
+        -moz-column-gap: 1em;
+             column-gap: 1em;
+      }
+    }
          
 /***
 MEDIA QUERIES
@@ -658,13 +710,11 @@ MEDIA QUERIES
  */
 @-webkit-keyframes slide-in-bottom {
     0% {
-        -webkit-transform: translateY(1000px);
         transform: translateY(1000px);
         opacity: 0;
     }
 
     100% {
-        -webkit-transform: translateY(0);
         transform: translateY(0);
         opacity: 1;
     }
@@ -672,13 +722,11 @@ MEDIA QUERIES
 
 @keyframes slide-in-bottom {
     0% {
-        -webkit-transform: translateY(1000px);
         transform: translateY(1000px);
         opacity: 0;
     }
 
     100% {
-        -webkit-transform: translateY(0);
         transform: translateY(0);
         opacity: 1;
     }

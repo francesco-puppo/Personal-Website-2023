@@ -41,6 +41,9 @@ languages:
                 # - name: Search
                 #   url: search
                 #   weight: 5
+                - name: Inspiration 
+                  url: inspiration
+                  weight: 5
 
 outputs:
     home:

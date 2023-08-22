@@ -1,16 +1,16 @@
 ---
 title: "Inspiration"
 url: "inspiration/"
-summary: A page containing inspiring images and links to the posts where I talk about them
+summary: A list of inspiring images I collected during my lifetime. Each on of them is linked to an article where I share more information about it.
 ShowReadingTime: false
 ShowBreadCrumbs: false
 showTOC: false
 ---
 
-<div class="photo-grid">
+A list of inspiring images I collected during my lifetime. Click on them to go to the related article.
 
-![](/static/20230821/HeadLopper1.webp)
+<div class="inspiration-grid">
+
+<a href="/posts/2023/08/inspiration-001"><img src="/20230821/HeadLopper1.webp"></a>
 
 </div>
-
-<img src="/static/20230821/HeadLopper1.webp">
