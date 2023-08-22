@@ -7,7 +7,7 @@ ShowBreadCrumbs: false
 showTOC: false
 ---
 
-A list of inspiring images I collected during my lifetime. Click on them to go to the related article.
+A list of interesting stuff I collected during my lifetime. Click on them to go to the related article.
 
 <div class="inspiration-grid">
 
