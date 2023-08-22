@@ -8,7 +8,7 @@ ShowBreadCrumbs: false
 
 # Bio
 
-![Me and my wife laying in a field](/images/profile.jpg)
+![](/images/profile_pic_square.jpg)
 
 I like taking [pictures](/tags/photography/) (especially when I travel), watching [movies](/tags/movies), and reading [books](/tags/books).
 
