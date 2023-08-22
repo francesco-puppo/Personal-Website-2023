@@ -1,6 +1,6 @@
 ---
 title: "Inspiration"
-url: "/inspiration"
+url: "inspiration/"
 summary: A page containing inspiring images and links to the posts where I talk about them
 ShowReadingTime: false
 ShowBreadCrumbs: false
