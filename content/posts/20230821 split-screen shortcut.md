@@ -27,7 +27,7 @@ Some combos I use are:
 -   Things + Calendar to plan my days
 -   Mail + Things to clean up my inbox
 
-![](/20230821/SplitScreenShortcut_Small.gif)
+![](/images/SplitScreenShortcut_Small.gif)
 
 ## Download
 

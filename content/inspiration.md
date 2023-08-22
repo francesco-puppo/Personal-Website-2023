@@ -11,6 +11,6 @@ A list of inspiring images I collected during my lifetime. Click on them to go t
 
 <div class="inspiration-grid">
 
-<a href="/posts/2023/08/inspiration-001"><img src="/20230821/HeadLopper1.webp"></a>
+<a href="/posts/2023/08/inspiration-001"><img src="/images/HeadLopper1.webp"></a>
 
 </div>

@@ -5,7 +5,6 @@ draft: false
 ShowToc: false
 ShowBreadCrumbs: false
 tags: [meta]
-status: #published
 ---
 
 As tradition, I redesigned my website for the new year. After moving to Webflow in 2021 and hosting a simple HTML site in Github in 2022, this year I decided to go back to **Hugo** for a few reasons.
