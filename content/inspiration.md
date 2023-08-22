@@ -13,4 +13,6 @@ A list of interesting stuff I collected during my lifetime. Click on them to go 
 
 <a href="/posts/2023/08/inspiration-001"><img src="/images/HeadLopper1.webp"></a>
 
+<a href="/posts/2023/02/some-photos-from-norway"><img src="/images/norway-1.jpeg"></a>
+
 </div>
