@@ -4,11 +4,10 @@ url: "/about"
 summary: about
 ShowReadingTime: false
 ShowBreadCrumbs: false
+showTOC: false
 ---
 
-# Bio
-
-![](/images/profile_pic_square.jpg)
+<img loading="lazy" src="/images/profile_pic_square.jpg" alt="Profile Picture" style="border-radius:999px;width:150px">
 
 I like taking [pictures](/tags/photography/) (especially when I travel), watching [movies](/tags/movies), and reading [books](/tags/books).
 
