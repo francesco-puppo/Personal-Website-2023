@@ -1,6 +1,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/francesco-puppo/iamfran.com.git
-[submodule "public/iamfran.com"]
-	path = public/iamfran.com
-	url = https://github.com/francesco-puppo/iamfran.com
+
