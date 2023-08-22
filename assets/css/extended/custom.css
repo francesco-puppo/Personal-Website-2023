@@ -587,11 +587,18 @@ TAGS PAGE
 }
 
 /***
-POSTS PAGE
+ARCHIVE PAGE
 ***/
 
 sup.archive-count {
     display: none;
+}
+
+.archive-posts .archive-entry h3.archive-entry-title {
+}
+.archive-posts .archive-entry:hover h3.archive-entry-title {
+    text-decoration: underline;
+
 }
 
 /***
