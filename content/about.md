@@ -9,7 +9,7 @@ showTOC: false
 
 <img loading="lazy" src="/images/profile_pic_square.jpg" alt="Profile Picture" style="border-radius:999px;width:150px">
 
-*An Italian designer living in Amsterdam.*
+*An Italian UX and Design Manager living in Amsterdam.*
 
 I like taking [pictures](/tags/photography/) (especially when I travel), watching [movies](/tags/movies), and reading [books](/tags/books).
 
