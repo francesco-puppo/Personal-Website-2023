@@ -4,7 +4,7 @@ date: 2023-08-28T08:00:00+01:00
 draft: false
 ShowToc: true
 ShowBreadCrumbs: false
-tags: [design]
+tags: [design,product]
 ---
 
 During the years, I developed an interior compass that guides me when designing products as well as when choosing which ones to support and use on a daily basis.
