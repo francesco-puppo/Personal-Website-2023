@@ -9,7 +9,7 @@ tags: [design]
 
 During the years, I developed an interior compass that guides me when designing products as well as when choosing which ones to support and use on a daily basis.
 
-If you are familiar with them, you will notice the influence of **Dieter Ram’s Ten Principles of Good Design**. 
+If you are familiar with them, you will notice the influence of *Dieter Ram’s Ten Principles of Good Design*. 
 When presenting my list of principles, I always share this debt: the man made a *perfect* list. We can only get inspired by it and tailor it to suit *us* better.
 
 In my case, I made this list focusing on what it takes, in my opinion, to create a great digital product.
