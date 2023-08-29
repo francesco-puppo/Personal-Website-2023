@@ -14,6 +14,8 @@ When presenting my list of principles, I always share this debt: the man made a 
 
 In my case, I made this list focusing on what it takes, in my opinion, to create a great digital product.
 
+---
+
 ## Good design is:
 
 ### 1. Honest
@@ -42,5 +44,5 @@ Of course it’s much easier to list these guidelines than to follow them. Never
 
 Scrolling through this list from time to time, and sharing it with other people when needed, helps me maintain focus and clarity and it reminds me what I think is really important to deliver a great digital product. 
 
-[^1]: See the concept of [Maximum Viable Product](https://iamfran.com/posts/2023/01/maximum-viable-product/)]
+[^1]: See the concept of [Maximum Viable Product](/posts/2023/01/maximum-viable-product/)
 [^2]: As I often do, also here I have to use Things by Cultured Code as an example. Their app is more than [six years old](https://culturedcode.com/things/blog/2017/05/meet-the-all-new-things/) (an eternity in the digital world) but it's still unrivaled when it comes to user experience and looks. Even their website reflect that ideal of good, simple design that doesn't really suffer from the passing of time.
