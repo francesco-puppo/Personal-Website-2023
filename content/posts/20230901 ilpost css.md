@@ -9,7 +9,7 @@ cover:
     image: https://github.com/francesco-puppo/CSS-Styling/blob/main/ilpost.it/img/ilpost-after.png?raw=true
 ---
 
-Since I spend a lot of time reading the (incredibly always interesting) written by the team over at [ilpost.it](https://ilpost.it), I took the time to review and clean up some CSS style I wrote to customise the article view.
+Since I spend a lot of time reading the (incredibly always interesting) articles written by the team over at [ilpost.it](https://ilpost.it), I took the time to review and clean up some CSS style I wrote to customise the article view.
 
 While on Safari I always use the reader mode (which is not customisable in any way), while on other browsers I had to rely on the, often lacking, alternatives.
 
