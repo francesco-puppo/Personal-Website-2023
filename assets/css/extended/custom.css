@@ -375,7 +375,7 @@ article .post-content a:not(.anchor) {
     transition: all 0.25s ease-in-out;
     text-decoration: none;
     color: var(--primary);
-    /* display: inline-block; */
+    display: inline-block;
 }
 
 article .post-content a:hover {
@@ -414,6 +414,7 @@ article .post-content a.externalurl:before {
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     display: inline-block;
+    margin-right: 0.1rem;
 }
 
 article .post-content a.externalurl:after {
