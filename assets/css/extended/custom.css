@@ -278,7 +278,8 @@ figure.entry-cover::before {
     background: rgb(45, 45, 45);
     height: 5px;
     top: 75px;
-    filter: blur(6px);
+    -webkit-filter: blur(6px);
+            filter: blur(6px);
     opacity: 50%;
     transition: all 0.25s ease-in-out;
 }
@@ -630,11 +631,8 @@ sup.archive-count {
     display: none;
 }
 
-.archive-posts .archive-entry h3.archive-entry-title {
-}
 .archive-posts .archive-entry:hover h3.archive-entry-title {
     text-decoration: underline;
-
 }
 
 /***
@@ -657,7 +655,7 @@ ABOUT
 .not-found .hell {
     font-size: 1.4rem;
     font-weight: 100;
-    color: var(--secondary)
+    color: var(--secondary);
 }
 
 /***
@@ -831,4 +829,4 @@ MEDIA QUERIES
         transform: translateY(0);
         opacity: 1;
     }
-}
+}}
