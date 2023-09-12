@@ -255,8 +255,6 @@ article.post-entry footer {
     font-style: italic;
 }
 
-.fancytexthover:hover .textwrapper {
-
 /* article.post-entry:hover {
     margin-bottom:32px;
     box-shadow: rgba(0, 178, 255, 0.4) 0px 5px, rgba(0, 178, 255, 0.3) 0px 10px, rgba(0, 178, 255, 0.2) 0px 15px, rgba(0, 178, 255, 0.1) 0px 20px, rgba(0, 178, 255, 0.05) 0px 25px;
@@ -829,4 +827,4 @@ MEDIA QUERIES
         transform: translateY(0);
         opacity: 1;
     }
-}}
+}
