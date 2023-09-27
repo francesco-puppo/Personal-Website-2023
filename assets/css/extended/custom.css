@@ -607,7 +607,7 @@ h5:hover a.anchor:hover {
 }
 
 article sup {
-    display: block;
+    display: inline-block;
 }
 
 /***
