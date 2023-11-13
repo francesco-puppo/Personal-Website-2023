@@ -47,11 +47,6 @@
     --selection-background: rgba(0, 178, 255, 0.8);
 }
 
-body,
-.list {
-    background: var(--code-bg);
-}
-
 .dark.list {
     background: var(--theme);
 }
