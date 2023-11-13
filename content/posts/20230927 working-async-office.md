@@ -2,7 +2,7 @@
 title: "Working async in a 9-to-5 office job"
 date: 2023-09-27T08:00:00+01:00
 draft: false
-ShowToc: false
+ShowToc: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 tags: [remote, async]
