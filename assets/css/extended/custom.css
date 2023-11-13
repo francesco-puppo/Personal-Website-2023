@@ -228,6 +228,7 @@ main .post-entry:not(.tag-entry),
 article.post-entry {
     background: none;
     margin-bottom: 0px;
+    border: none;
 }
 
 
@@ -253,6 +254,10 @@ article.post-entry:hover h2::after {
 
 article.post-entry footer {
     font-style: italic;
+}
+
+main.main footer.page-footer {
+    margin-top: 1rem;
 }
 
 /* article.post-entry:hover {
