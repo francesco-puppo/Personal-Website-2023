@@ -436,7 +436,6 @@ article .post-content a.externalurl:before {
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     display: inline-block;
-    margin-right: 0.1rem;
 }
 
 article .post-content a.externalurl:after {
@@ -444,7 +443,6 @@ article .post-content a.externalurl:after {
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     display: inline-block;
-    margin-left: 0.1rem;
 }
 
 article .post-content a.email:after {
