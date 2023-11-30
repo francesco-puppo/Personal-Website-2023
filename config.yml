@@ -98,8 +98,8 @@ params:
           url: "mailt:francescopuppo@me.com"
         # - name: instagram
         #   url: "https://www.instagram.com/raxerox/"
-        - name: medium
-          url: "https://medium.com/@fransgarage"
+        # - name: medium
+        #   url: "https://medium.com/@fransgarage"
         - name: dribbble
           url: "https://dribbble.com/fpuppo"
         - name: Rss
