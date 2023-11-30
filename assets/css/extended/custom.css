@@ -410,7 +410,6 @@ article .post-content a:hover {
 article .post-content a:not(.anchor):before {
     content: '[[';
     display: inline-block;
-    margin-right: -0.6rem;
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
 }
@@ -445,6 +444,7 @@ article .post-content a.externalurl:after {
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     display: inline-block;
+    margin-left: 0.1rem;
 }
 
 article .post-content a.email:after {
