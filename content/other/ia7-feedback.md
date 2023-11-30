@@ -60,25 +60,25 @@ Before concluding with some visual examples, let me just say that these are (obv
 
 The new AI assistant button can be found in the toolbar (bottom right).
 
-![Inactive](<../../static/images/2023-11-30 ia7 01 inactive.png>)
+![Inactive](<../../images/2023-11-30 ia7 01 inactive.png>)
 
 Once summoned, the AI assistant has a stark contrast compared to the rest of the UI, to clearly separate the action of using AI vs the one of writing.
 
 Users can either ask for something specific by writing themselves, or they can select one of the predefined actions. 
 
-![Active](<../../static/images/2023-11-30 ia7 02 active.png>)
+![Active](<../../images/2023-11-30 ia7 02 active.png>)
 
 Even if I know you guys hate buttons I couldn't find another way to implement this.
 
-![Critique tooltip](<../../static/images/2023-11-30 ia7 03 critique.png>)
+![Critique tooltip](<../../images/2023-11-30 ia7 03 critique.png>)
 
 The AI provides the answer, for the whole page in this case, and a small icon shows the action that was selected (Critique in this case).
 
-![Reply](<../../static/images/2023-11-30 ia7 04 reply.png>)
+![Reply](<../../images/2023-11-30 ia7 04 reply.png>)
 
 The AI assistant also works on selected bits of text, to provide  more granular control over what the user wants to be analysed.
 
-![Selected text](<../../static/images/2023-11-30 ia7 05 select-criticise.png>)
+![Selected text](<../../images/2023-11-30 ia7 05 select-criticise.png>)
 ---
 
 That's it! I would appreciate any kind of feedback but I also understand if you're too busy for that.
