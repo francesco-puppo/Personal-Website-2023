@@ -8,7 +8,7 @@ ShowPostNavLinks: true
 tags: [writing]
 ---
 
-*Short reflection on why it's important to stop time and start writing, plus some tips.*
+*Short reflection on why it's important to slow down and start writing, plus some tips.*
 
 ---
 I don't know about you, but I used to have hundreds of neatly organised and categorised notes that I collected during the years.
@@ -114,4 +114,4 @@ Writing is a solitary task, you need to be able to focus and lose yourself in yo
 If possible, as suggested by basically every writer out there, sit down in your writing room and close the door. \ 
 Otherwise, considering nowadays limited living solutions, it's often enough to put your headphones on, even with no music going, to signal that you need some time for yourself and are focusing on the task.
 
-[^1]: I highly suggest you to use a markdown based text editor, since makes it a breeze to style with just your keyboard.
+[^1]: I highly suggest you to use a markdown based text editor, since it makes it a breeze to style with just your keyboard.
