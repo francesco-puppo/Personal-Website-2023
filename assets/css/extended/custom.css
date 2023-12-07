@@ -224,28 +224,23 @@ article.post-entry {
     background: none;
     margin-bottom: 0px;
     border: none;
+    transition: all 0.75s ease-in-out;
 }
 
+article.post-entry h2 {
+    transition: all 1.5s ease-in-out;
 
-article.post-entry,
-article.post-entry h2,
-article.post-entry h2::after
- {
-    transition: all 0.5s ease-in-out;
 }
 
-article.post-entry h2::after {
-    content: '';
-    height: 0.5rem;
-    width: 0%;
-    background: var(--highlight-transparent);
-    display: block;
-    margin-top: -0.75rem;
+article.post-entry:hover {
+    background-color: var(--entry);
 }
 
-article.post-entry:hover h2::after {
-    width: 20%;
-}
+/* article.post-entry:hover h2 {
+    text-shadow: var(--highlight-transparent) 1px 0 6px;
+}  */
+
+
 
 article.post-entry footer {
     font-style: italic;

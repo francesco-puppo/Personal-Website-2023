@@ -90,9 +90,9 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "<span class='hello'>👋</span> Hello!"
-        Content: >
-                My name is Francesco  and I am a UX  and Design Manager with a passion for, well, a lot of things... I am currently living in Amsterdam where I work as Head of UX Design at [Greenflux](https://greenflux.com)
+        Title: <span class='hello'>👋</span>Hello!
+        Content: 
+            Hi, I'm Francesco, a UX design manager living in Amsterdam. I currently work as Head of UX Design at [Greenflux](https://greenflux.com) and I write about different things that interest me.
     socialIcons:
         - name: email
           url: "mailt:francescopuppo@me.com"
