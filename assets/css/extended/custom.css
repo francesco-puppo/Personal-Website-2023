@@ -412,12 +412,13 @@ article .post-content a:not(.anchor):before {
     display: inline-block;
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
+    margin-right:-4.00px;
 }
 
 article .post-content a:not(.anchor):after {
     content: ']]';
     display: inline-block;
-    margin-left: -0.6rem;
+    margin-left: -4.00px;
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
 }
@@ -436,7 +437,7 @@ article .post-content a.externalurl:before {
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     display: inline-block;
-    margin-right: -0.5rem;
+    margin-right: -4.00px;
 }
 
 article .post-content a.externalurl:after {
@@ -444,13 +445,14 @@ article .post-content a.externalurl:after {
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     display: inline-block;
+    margin-left: -4.00px;
 }
 
 article .post-content a.email:after {
     content: '](@)';
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
-    margin-left: 0.1rem;
+    margin-left: 4px;
     display: inline-block;
 }
 
@@ -459,19 +461,19 @@ article .post-content a.email:before {
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     display: inline-block;
-    margin-right: 0.1rem;
+    margin-right: 4px;
 }
 
 article .post-content a.footnote-ref::before,
 article .post-content a.footnote-backref::before {
     content: "[" ;
-    margin-right: 0.25rem;
+    margin-right: 2.00px;
 }
 
 article .post-content a.footnote-ref::after,
 article .post-content a.footnote-backref::after {
     content: "]" ;
-    margin-left: 0.25rem;
+    margin-left: 2.00px;
 }
 
 .post-content ul,
