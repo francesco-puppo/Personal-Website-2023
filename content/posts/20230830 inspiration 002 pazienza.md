@@ -1,7 +1,6 @@
 ---
 title: "Inspiration 002"
-date: 2023-11-30T08:00:00+01:00
-draft: true
+date: 2023-12-07T18:00:00+01:00
 ShowToc: false
 ShowBreadCrumbs: false
 tags: [inspiration,comics]
