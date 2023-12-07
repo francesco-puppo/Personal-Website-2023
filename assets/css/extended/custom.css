@@ -436,6 +436,7 @@ article .post-content a.externalurl:before {
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     display: inline-block;
+    margin-right: -0.5rem;
 }
 
 article .post-content a.externalurl:after {
