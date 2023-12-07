@@ -437,7 +437,7 @@ article .post-content a.externalurl:before {
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     display: inline-block;
-    margin-right: -4.00px;
+    margin-right: -2px;
 }
 
 article .post-content a.externalurl:after {
@@ -445,7 +445,7 @@ article .post-content a.externalurl:after {
     color: var(--markdown);
     transition: all 0.25s ease-in-out;
     display: inline-block;
-    margin-left: -4.00px;
+    margin-left: 0px;
 }
 
 article .post-content a.email:after {
