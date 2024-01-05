@@ -96,10 +96,10 @@ params:
     socialIcons:
         - name: email
           url: "mailto:francescopuppo@me.com"
+        - name: mastodon
+          url: "https://mastodon.social/@iamfran"
         - name: instagram
           url: "https://www.instagram.com/i_am_fran_photos/"
-        # - name: medium
-        #   url: "https://medium.com/@fransgarage"
         # - name: dribbble
         #  url: "https://dribbble.com/fpuppo"
         - name: Rss
