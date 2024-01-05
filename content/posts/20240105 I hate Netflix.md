@@ -1,7 +1,7 @@
 ---
 title: "I hate Netflix"
 date: 2024-01-05T21:00:00+01:00
-draft: true
+draft: false
 ShowToc: false
 ShowBreadCrumbs: false
 tags: [ux, entertainment]
