@@ -99,7 +99,7 @@ params:
         - name: mastodon
           url: "https://mastodon.social/@iamfran"
         - name: instagram
-          url: "https://www.instagram.com/i_am_fran_photos/"
+          url: "https://www.instagram.com/iamfran_photos/"
         # - name: dribbble
         #  url: "https://dribbble.com/fpuppo"
         - name: Rss
