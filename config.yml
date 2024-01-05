@@ -96,12 +96,12 @@ params:
     socialIcons:
         - name: email
           url: "mailto:francescopuppo@me.com"
-        # - name: instagram
-        #   url: "https://www.instagram.com/raxerox/"
+        - name: instagram
+          url: "https://www.instagram.com/i_am_fran_photos/"
         # - name: medium
         #   url: "https://medium.com/@fransgarage"
-        - name: dribbble
-          url: "https://dribbble.com/fpuppo"
+        # - name: dribbble
+        #  url: "https://dribbble.com/fpuppo"
         - name: Rss
           url: "index.xml"
 
