@@ -125,7 +125,7 @@ params:
         favicon: "https://github.com/francesco-puppo/website/blob/main/assets/favicon.png?raw=true"
         favicon16x16: "https://github.com/francesco-puppo/website/blob/main/assets/favicon.png?raw=true"
         favicon32x32: "https://github.com/francesco-puppo/website/blob/main/assets/favicon.png?raw=true"
-    #     apple_touch_icon: "<link / abs url>"
+        apple_touch_icon: "https://github.com/francesco-puppo/website/blob/main/assets/favicon.png?raw=true"
         safari_pinned_tab: "https://github.com/francesco-puppo/website/blob/main/assets/favicon.png?raw=true"
 
     cover:
