@@ -95,7 +95,7 @@ params:
             Hi, I'm Francesco, a UX design manager living in Amsterdam. I currently work as Head of UX Design at [Greenflux](https://greenflux.com) and I write about different things that interest me.
     socialIcons:
         - name: email
-          url: "mailt:francescopuppo@me.com"
+          url: "mailto:francescopuppo@me.com"
         # - name: instagram
         #   url: "https://www.instagram.com/raxerox/"
         # - name: medium
