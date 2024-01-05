@@ -584,12 +584,19 @@ h5:hover a.anchor:hover {
 
 .post-content blockquote {
     margin: 32px 0;
-    padding: 28px;
+    padding: 12px 24px;
     -webkit-border-start: 0px solid var(--highlight);
             border-inline-start: 0px solid var(--highlight);
-    border-radius: 8px;
-    background: var(--code-bg);
     font-style: italic;
+}
+
+.post-content blockquote::before {
+    content: '>';
+    display: inline-block;
+    position: absolute;
+    margin-left: -20px;
+    color: var(--markdown);
+}
 }
 
 .post-content blockquote p {
