@@ -7,6 +7,10 @@ ShowBreadCrumbs: false
 tags: [ux, entertainment]
 ---
 
+*Does it really have to be like this?*
+
+---
+
 I hate how it swaps movie’s covers.
 
 I hate how it moves the Continue Watching row around.
