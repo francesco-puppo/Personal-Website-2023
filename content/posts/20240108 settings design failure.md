@@ -1,6 +1,6 @@
 ---
 title: "Are settings a design failure?"
-date: 2024-01-08T11:30:00:00+01:00
+date: 2024-01-08T10:30:00:00+01:00
 draft: false
 ShowToc: false
 ShowBreadCrumbs: false
