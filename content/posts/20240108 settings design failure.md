@@ -22,9 +22,9 @@ To maximise the user experience, it's important to **don't add new stuff for the
 
 Really good apps have a **small preferences panel**, displaying only those settings where the designer didn't have a strong enough opinion about and are there only to allow users to personalise the app to fit their needs, without impacting the overall workflow or experience.
 
-2023-09-27 bear-preferences.png
+![Bear preferences panel](/images/2023-09-27 bear-preferences.png)
 
-2023-09-27 things-preferences.png
+![Things preferences pane](/images/2023-09-27 things-preferences.png)
 
-## Related
+### Related
 - [Maximum Viable Product](/posts/2023/01/maximum-viable-product/)
